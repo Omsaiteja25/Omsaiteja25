@@ -7,6 +7,8 @@ Beyond data analytics, I’m an avid reader and I enjoy playing cricket. I’m a
 
 Feel free to explore my repositories, check out my projects, and connect with me if you want to collaborate on solving real-world problems using data. 😊
 
+Skills: SQL, Power BI, Excel, Data Modeling, Data Cleaning, Data Visualization.
+
 Thanks for visiting my profile!
 
 <!---
